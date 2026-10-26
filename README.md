@@ -10,16 +10,6 @@
 
 ---
 
-## 👥 Tim Pengembang (Program Studi Teknik Informatika — UMPO)
-
-1. **Prasetya Riski Wa'afan** (`23533743`) — [https://prasetyarizki.my.id](https://prasetyarizki.my.id)
-2. **Agya Gilar Cahyono** (`23533753`)
-3. **Muhammad Taufik Hidayat** (`23533739`)
-4. **Galang Finto Anergi** (`23533835`)
-5. **Muhammad Nur Arifin** (`23533792`)
-
----
-
 ## 📌 Ringkasan Sistem
 
 **SmartThesis UMPO** adalah platform pencarian dan rekomendasi topik skripsi/penelitian lintas program studi berbasis kecerdasan buatan (*Artificial Intelligence*). Sistem ini dirancang untuk mengatasi fenomena *"researcher's block"* pada mahasiswa tingkat akhir melalui pendekatan **Information Retrieval (IR)** berbasis **TF-IDF N-Gram** dan **Cosine Similarity**, yang dipadukan secara hibrida dengan **Generative AI / Large Language Model (Google Gemini)** sebagai asisten akademik interaktif (*Hybrid RAG-Lite Advisor*).
