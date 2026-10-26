@@ -1,0 +1,26 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Streamlit Local Secrets (SENSITIVE - NEVER COMMIT API KEYS)
+.streamlit/secrets.toml
+
+# Environment & Temp Files
+.env
+.env.local
+*.log
+*.tmp
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

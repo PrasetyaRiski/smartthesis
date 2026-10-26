@@ -1,0 +1,16 @@
+[theme.light]
+primaryColor = "#8A4F1D"
+
+[theme.dark]
+primaryColor = "#E09852"
+
+[server]
+port = 8501
+address = "0.0.0.0"
+headless = true
+enableCORS = false
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
+serverAddress = "smartthesis.prasetyarizki.my.id"
